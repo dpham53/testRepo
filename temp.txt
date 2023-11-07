@@ -1,0 +1,5 @@
+version number
+My project version 1.4.6
+1st number major version (1)
+2sd number minor version (4)
+3th number bugfix / patch (6)
